@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace NarrativeProject.Rooms
 {
-    internal class Sitting_Room
+    internal class Sitting_Room 
     {
+        public Sitting_Room() { }
+
+        
     }
 }

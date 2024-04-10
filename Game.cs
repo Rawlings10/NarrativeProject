@@ -9,6 +9,9 @@ namespace NarrativeProject
         internal bool IsGameOver() => isFinished;
         static bool isFinished;
         static string nextRoom = "";
+        public static int HP;
+        public static string name;
+        public static int score;
 
         internal void Add(Room room)
         {

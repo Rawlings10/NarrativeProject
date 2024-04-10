@@ -50,6 +50,8 @@
     <Compile Include="Rooms\AtticRoom.cs" />
     <Compile Include="Rooms\Bathroom.cs" />
     <Compile Include="Rooms\Bedroom.cs" />
+    <Compile Include="Rooms\Start_Page.cs" />
+    <Compile Include="Rooms\Sitting Room.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

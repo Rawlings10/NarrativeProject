@@ -23,7 +23,7 @@ From your closet, you see the [attic].
                 case "door":
                     if (!AtticRoom.isKeyCollected)
                     {
-                        Console.WriteLine("The door is locked.");
+                        Console.WriteLine("The door is locked."); 
                     }
                     else
                     {
